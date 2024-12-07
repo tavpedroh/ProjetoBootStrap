@@ -1,0 +1,47 @@
+.jumbotron {
+    background-image: url("../img/vitrine.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
+.hall {
+    padding:40px 0;
+}
+
+
+.hall-title {
+    padding-top: 100px;
+    font-size: 3rem;
+}
+
+.hall-portrait {
+    background-color: #ccc;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.hall-image {
+    height: 300px;
+}
+
+.hall-button {
+    padding: 5px 50px;
+}
+
+.media img {
+    width: 64px;
+    height: 64px;
+}
+
+footer {
+    width: 100%;
+    margin-top: 40px;
+    padding: 20px 0;
+    border: solid 2px #ccc;
+    text-align: center;
+}
+
+footer p{
+    font-size: 12px;
+    color: #b3b3b3;
+}
